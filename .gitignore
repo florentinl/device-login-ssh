@@ -1,0 +1,5 @@
+.env
+__debug_bin
+id_rsa
+id_rsa.pub
+known_hosts
